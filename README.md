@@ -1,6 +1,11 @@
 # react-native-swipe-picker
 An inline picker with swipe-to-select-an-item interaction
 
+# Example
+![Swipe Picker Example](https://raw.githubusercontent.com/ninio/react-native-swipe-picker/master/docs/Demo-app.gif)
+This is a screenshot from the demo app, that is located in the `demo` folder.
+
+
 ## Installation
 In an existing react-native or expo project run:
 
