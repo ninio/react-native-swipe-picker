@@ -4521,9 +4521,10 @@ react-native-svg@9.4.0:
   resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.4.0.tgz#e428e0eae55aebd2355f1ff4f22675dad4611960"
   integrity sha512-IVJlVbS2dAPerPr927fEi4uXzrPXzlra5ddgyJXZZ2IKA2ZygyYWFZDM+vsQs+Vj20CfL8nOWszQQV57vdQgFg==
 
-"react-native-swipe-picker@https://github.com/ninio/react-native-swipe-picker":
-  version "0.0.1"
-  resolved "https://github.com/ninio/react-native-swipe-picker#676bbe4946d223692b8e09992908a31c6320f2da"
+react-native-swipe-picker@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-swipe-picker/-/react-native-swipe-picker-0.1.0.tgz#2ce8263f41fd9c09c3530310b56b2ba89b29b10a"
+  integrity sha512-aH4DcbYu6BakEq5sTiF5ZfY52tp+zVwOcrIwxSaFrb39bkuhPWm/PFhKqVBjM+u01DAQNG9lSg3ZHgamTDkLQw==
   dependencies:
     expo-linear-gradient "^4.0.0"
     prop-types "^15.7.2"

@@ -10,11 +10,11 @@ This is a screenshot from the demo app, that is located in the `demo` folder.
 In an existing react-native or expo project run:
 
 ```
-npm install --save https://github.com/ninio/react-native-swipe-picker
+npm install --save react-native-swipe-picker
 ```
 or
 ```
-yarn add https://github.com/ninio/react-native-swipe-picker
+yarn add react-native-swipe-picker
 ```
 
 ## Usage
