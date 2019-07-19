@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipe-picker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "React Native Swipe Picker",
   "main": "src/index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "swipe",
     "picker"
   ],
-  "author": "Nikolay Ninarski @ninio",
+  "author": "Nikolay Ninarski <nikolay.ninarski@gmail.com> (https://ninio.ninarski.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ninio/react-native-swipe-picker/issues"
