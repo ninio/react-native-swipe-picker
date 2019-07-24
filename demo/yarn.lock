@@ -2160,12 +2160,7 @@ expo-keep-awake@~5.0.1:
   resolved "https://registry.yarnpkg.com/expo-keep-awake/-/expo-keep-awake-5.0.1.tgz#15aeffd9de673f7eaf145449883e8d83f7d7a799"
   integrity sha512-DPWAqgxbmLyJoCXPbDXbj+1XFjP/ulv4AYzvi1a+jsvZRU2uiFdho0w269Y++DLCQf30vbuu3zs5HiaJGU43fA==
 
-expo-linear-gradient@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/expo-linear-gradient/-/expo-linear-gradient-4.0.0.tgz#a6ae6c6a0bc8ae4a14318ad1c1c9fb7696523322"
-  integrity sha512-QiBnoB0UhsIdn2vcLVIauQKOKO2vx9Sgz0DPLV2qLeD491RzF31szYGnoFiflHFyktgnvAqkeu49Sn0uym574g==
-
-expo-linear-gradient@~5.0.1:
+expo-linear-gradient@^5.0.1, expo-linear-gradient@~5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/expo-linear-gradient/-/expo-linear-gradient-5.0.1.tgz#b4f5450d680b9315f22f4f99fee6a2b90fb49d92"
   integrity sha512-5dKn9JIXmXXHq6itC/Jpqo65Tkgjwacyw1kpD8sekoFTEVfT6ciFd2djqIcciUqIa57FF/5d2q54mUvjoqD/TA==
@@ -2272,7 +2267,7 @@ expo-web-browser@~5.0.3:
   resolved "https://registry.yarnpkg.com/expo-web-browser/-/expo-web-browser-5.0.3.tgz#c382358ece64a4fad5a5996795faea3446072298"
   integrity sha512-Etue3QfBki4shFChsVd3Of3xvY7KsXoNINKvckiRCmcCjOC5bGiZ+Grhf70YEHVUB2bEcAUeZhC9Tg0Ip2tdEQ==
 
-expo@^33.0.0:
+expo@^33.0.6:
   version "33.0.7"
   resolved "https://registry.yarnpkg.com/expo/-/expo-33.0.7.tgz#e121044c04120ad6d74df6b0099d5d8194244349"
   integrity sha512-+mDBQ/KeJnDWg8bUoiuP/OpMXwUYaypgHMDPgH7+AXw8OJuedMhJlH+7UEX2OB+UePnWPcQER411sC7m819pag==
@@ -4521,12 +4516,12 @@ react-native-svg@9.4.0:
   resolved "https://registry.yarnpkg.com/react-native-svg/-/react-native-svg-9.4.0.tgz#e428e0eae55aebd2355f1ff4f22675dad4611960"
   integrity sha512-IVJlVbS2dAPerPr927fEi4uXzrPXzlra5ddgyJXZZ2IKA2ZygyYWFZDM+vsQs+Vj20CfL8nOWszQQV57vdQgFg==
 
-react-native-swipe-picker@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-swipe-picker/-/react-native-swipe-picker-0.1.0.tgz#2ce8263f41fd9c09c3530310b56b2ba89b29b10a"
-  integrity sha512-aH4DcbYu6BakEq5sTiF5ZfY52tp+zVwOcrIwxSaFrb39bkuhPWm/PFhKqVBjM+u01DAQNG9lSg3ZHgamTDkLQw==
+react-native-swipe-picker@^0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/react-native-swipe-picker/-/react-native-swipe-picker-0.1.4.tgz#ca11b7bd052d133d64e0ecfdcc8d9f5efa45b562"
+  integrity sha512-8qbAutCYfHYKUzCsmwLaNsgvZDPQWeoHyLbwmyXMrzP4rniHoioWilLcOQmWkXmPEIfP/bDcqrSaKOIXRXNOcA==
   dependencies:
-    expo-linear-gradient "^4.0.0"
+    expo-linear-gradient "^5.0.1"
     prop-types "^15.7.2"
 
 react-native-view-shot@2.6.0:
