@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipe-picker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "React Native Swipe Picker",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   "homepage": "https://github.com/ninio/react-native-swipe-picker#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "expo-linear-gradient": "^4.0.0"
+    "expo-linear-gradient": "^5.0.1"
   }
 }
