@@ -2,7 +2,7 @@
   "name": "react-native-swipe-picker",
   "version": "0.1.1",
   "description": "React Native Swipe Picker",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
