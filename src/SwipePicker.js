@@ -6,6 +6,11 @@ import { FlatList, Text, StyleSheet, View } from 'react-native'
 
 import { LinearGradient } from 'expo-linear-gradient';
 
+const ListItem = React.memo( ({ label }) => (
+	<View style={styles.listItem}>
+		<Text>{ label }</Text>
+	</View>
+) );
 
 /**
  *
@@ -84,7 +89,9 @@ const SwipePicker = ( { items, onChange, initialSelectedIndex = null, width, hei
 					key: item.value.toString(),
 					...item
 				} ) ) }
-				renderItem={ item => ( <View style={ styles.listItem }><Text>{ item.item.label }</Text></View> ) }
+				renderItem={ item => (
+					<ListItem label={ item.item.label } />
+				 ) }
 				getItemLayout={ ( _, index ) => ( { length: itemHeight, offset: index * itemHeight, index } ) }
 				snapToInterval={ itemHeight }
 				ListEmptyComponent={ () => <Text>No Items</Text> }
