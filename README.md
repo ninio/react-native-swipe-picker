@@ -1,5 +1,6 @@
 # react-native-swipe-picker
-An inline picker with swipe-to-select-an-item interaction
+An inline picker with swipe-to-select-an-item interaction.
+Similar to how one inputs blood pressure in SHealth App.
 
 # Example
 ![Swipe Picker Example](https://raw.githubusercontent.com/ninio/react-native-swipe-picker/master/docs/Demo-app.gif)
