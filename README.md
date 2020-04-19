@@ -8,7 +8,10 @@ Similar to how one inputs blood pressure in SHealth App.
 This is a screenshot from the demo app, that is located in the `demo` folder.
 
 ## Installation
-In an existing react-native or expo project run:
+
+Step 0: (Skip it if you're using expo) Install and configure [the `react-native-unimodules` package](https://github.com/unimodules/react-native-unimodules#-installation)
+
+Step 1: Install the package:
 
 ```
 npm install --save react-native-swipe-picker
